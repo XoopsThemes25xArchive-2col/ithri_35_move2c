@@ -1,0 +1,79 @@
+
+
+
+/* --------- Right columns --------- */
+#xo-canvas-rightcolumn {
+	width : 190px;
+	padding-top:12px;
+    
+	
+	
+}
+#xo-canvas-rightcolumn h3.xo-blocktitle {
+    text-transform: uppercase; 
+    background:url(../img/right.png) no-repeat ;
+    padding:6px;
+	color:#231B45; 
+	font-size: 1.2em;
+	font-weight: bold;
+	text-align: center;
+	
+	
+	
+	
+	
+}
+#xo-canvas-rightcolumn .xo-blockcontent { 
+	color:#00008B;
+	padding-bottom: 10px;
+	background: #9390B4 ;
+	
+}
+
+/* --------- Center blocks --------- */
+#xo-page .xo-block {
+  margin: 4px;
+  
+  
+ 
+ 
+}
+#xo-topcenterblocks, #xo-bottomcenterblocks {}
+#xo-topcenterblocks h3.xo-blocktitle, #xo-bottomcenterblocks h3.xo-blocktitle {
+  padding:4px;
+  padding-left: 4px;
+  color:#231B45; 
+  font-weight: bold;
+  background:url(../img/right.png) repeat-x ; 
+  font-size: 1.2em;
+  text-transform: uppercase;
+  margin:3px;
+}
+#xo-topcenterblocks .xo-blockcontent, #xo-bottomcenterblocks .xo-blockcontent {
+  margin: 2px;
+  line-height: 1.3em;
+  text-align: justify;
+background: #fff ;
+}
+#xo-topleftblocks, #xo-bottomleftblocks, #xo-toprightblocks, #xo-bottomrightblocks {width : 49.5%;  border-bottom: ;}
+#xo-topleftblocks h3.xo-blocktitle, #xo-bottomleftblocks h3.xo-blocktitle,
+#xo-toprightblocks h3.xo-blocktitle, #xo-bottomrightblocks h3.xo-blocktitle {
+ padding:4px;
+  padding-left: 4px;
+  color:#231B45; 
+  font-weight: bold;
+  background:url(../img/right.png) repeat-x ;
+  font-size: 1.2em;
+  text-transform: uppercase;
+   margin:3px;
+  
+}
+#xo-topleftblocks .xo-blockcontent, #xo-toprightblocks .xo-blockcontent,
+#xo-bottomleftblocks .xo-blockcontent, #xo-bottomrightblocks .xo-blockcontent {
+  margin: 3px;
+  line-height: 1.3em;
+  text-align: justify;
+  background: #fff ;
+}
+
+
